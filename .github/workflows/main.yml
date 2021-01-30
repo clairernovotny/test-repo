@@ -7,6 +7,6 @@ jobs:
     steps:
     - name: Hello world action step
       id: hello
-      uses: novotnyllc/test-action@v1.0
+      uses: novotnyllc/test-action@v1.1
       with:
         who-to-greet: 'Adventurer'
